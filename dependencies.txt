@@ -1,0 +1,1 @@
+pip install tkinter pywin32 pdf2docx pathlib
